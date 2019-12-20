@@ -1,0 +1,6 @@
+client:
+  
+client2server:
+  server_name: 'localhost'
+  server_port: 12000
+server:
